@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @sau2212
 - 👀 I’m interested in Java Application development
-- 🌱 I’m currently learning springboot and microservice developement
+- I have 8+ years of experience in scalable systems and microservices.
+- Proficient in Java 21, Docker, Kubernetes, and cloud-based deployments.
+- Expertise in performance optimization.
+- Experience with API development, and database management.
+- Passionate about continuous learning and technology advancements.
 - reach me at saurabhsingh2212@gmail.com
 
 <!---
