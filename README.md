@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sau2212
 - 👀 I’m interested in Java Application development
 - I have 8+ years of experience in scalable systems and microservices.
-- Proficient in Java 21, Docker, Kubernetes, and cloud-based deployments.
+- Proficient in Java, Docker, Kubernetes, and cloud-based deployments.
 - Expertise in performance optimization.
 - Experience with API development, and database management.
 - Passionate about continuous learning and technology advancements.
